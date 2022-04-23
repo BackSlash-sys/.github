@@ -24,9 +24,3 @@
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=blue)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=blue)
 
-### Follow Me:
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/d_dolzhansky)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/nedolzhanskylv)
-
-
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=dolzhansky&show_icons=true&theme=dark&hide=true) -->
